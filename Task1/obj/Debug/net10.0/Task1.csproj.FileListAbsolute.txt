@@ -1,0 +1,15 @@
+D:\с#\Task1\bin\Debug\net10.0\Task1.exe
+D:\с#\Task1\bin\Debug\net10.0\Task1.deps.json
+D:\с#\Task1\bin\Debug\net10.0\Task1.runtimeconfig.json
+D:\с#\Task1\bin\Debug\net10.0\Task1.dll
+D:\с#\Task1\bin\Debug\net10.0\Task1.pdb
+D:\с#\Task1\obj\Debug\net10.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\с#\Task1\obj\Debug\net10.0\Task1.AssemblyInfoInputs.cache
+D:\с#\Task1\obj\Debug\net10.0\Task1.AssemblyInfo.cs
+D:\с#\Task1\obj\Debug\net10.0\Task1.csproj.CoreCompileInputs.cache
+D:\с#\Task1\obj\Debug\net10.0\Task1.sourcelink.json
+D:\с#\Task1\obj\Debug\net10.0\Task1.dll
+D:\с#\Task1\obj\Debug\net10.0\refint\Task1.dll
+D:\с#\Task1\obj\Debug\net10.0\Task1.pdb
+D:\с#\Task1\obj\Debug\net10.0\Task1.genruntimeconfig.cache
+D:\с#\Task1\obj\Debug\net10.0\ref\Task1.dll
